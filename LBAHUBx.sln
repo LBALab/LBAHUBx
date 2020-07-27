@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBAHUBx", "LBAHUBx.csproj", "{3A36D54A-DF31-4A92-B0DD-37434E7D127E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A36D54A-DF31-4A92-B0DD-37434E7D127E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A36D54A-DF31-4A92-B0DD-37434E7D127E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A36D54A-DF31-4A92-B0DD-37434E7D127E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A36D54A-DF31-4A92-B0DD-37434E7D127E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243A4B8E-1FE5-4784-AD85-CE0149B77BFC}
+	EndGlobalSection
+EndGlobal
