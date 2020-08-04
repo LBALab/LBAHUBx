@@ -3,7 +3,6 @@ R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\fullCloverBox.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\heart.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\kash.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\LBA1Key.png
-R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\LBA2Key.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\magicVial.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\files\zlitos.png
 R:\Users\User\source\repos\LBAHUBx\bin\Debug\LBAHUBx.exe.config
